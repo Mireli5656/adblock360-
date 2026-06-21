@@ -3,7 +3,7 @@ name: Build Adblock360
 on:
   push:
     paths:
-      - 'data/adblock360.txt'  # Yalnız bu fayl dəyişdikdə işə düşəcək
+      - 'data/adblock360.txt'
     branches:
       - main
   workflow_dispatch:
@@ -17,18 +17,18 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build List
         run: |
           mkdir -p lists
-          # data/adblock360.txt-i oxuyub, boş olmayan sətirləri filterləyirik
           grep -v '^$' data/adblock360.txt | sort -u | sed 's/^/0.0.0.0 /' > lists/adblock360.hosts
 
       - name: Commit and Push
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add lists/adblock360.hosts
-          # Əgər faylda dəyişiklik varsa commit et
           git commit -m "Auto-update Adblock360 list" || echo "No changes to commit"
           git push
