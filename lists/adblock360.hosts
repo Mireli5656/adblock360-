@@ -13,6 +13,7 @@
 0.0.0.0 ad-emea.doubleclick.net
 0.0.0.0 ad-plus.cn
 0.0.0.0 ad-score.com
+0.0.0.0 ad-yandex.net
 0.0.0.0 ad.360yield.com
 0.0.0.0 ad.adriver.ru
 0.0.0.0 ad.advertising.com
@@ -51,6 +52,8 @@
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adform.com
 0.0.0.0 adfox.ru
+0.0.0.0 adfox.yandex.com
+0.0.0.0 adfox.yandex.net
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adfstat.yandex.ru
 0.0.0.0 adhigh.net
@@ -117,6 +120,7 @@
 0.0.0.0 ads.vungle.com
 0.0.0.0 ads.washingtonpost.com
 0.0.0.0 ads.yahoo.com
+0.0.0.0 ads.yandex.ru
 0.0.0.0 ads.yieldlab.net
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 ads.youtube.com
@@ -173,7 +177,9 @@
 0.0.0.0 altfarm.mediaplex.com
 0.0.0.0 ams.amazon.com
 0.0.0.0 an.facebook.com
+0.0.0.0 an.yandex.net
 0.0.0.0 an.yandex.ru
+0.0.0.0 an.yandex.ru/ads
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-reporting.google.com
 0.0.0.0 analytics-settings.google.com
@@ -255,6 +261,7 @@
 0.0.0.0 b1.zemanta.com
 0.0.0.0 bam-cell.nr-data.net
 0.0.0.0 bam.nr-data.net
+0.0.0.0 banners.yandex.ru
 0.0.0.0 bat.bing.com
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
@@ -317,6 +324,7 @@
 0.0.0.0 ck.ads.oppomobile.com
 0.0.0.0 clarity.ms
 0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 clck.yandex.net
 0.0.0.0 clck.yandex.ru
 0.0.0.0 click.googleadservices.com
 0.0.0.0 click.googleanalytics.com
@@ -371,6 +379,7 @@
 0.0.0.0 doubleclick.net
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dpm.google.com
+0.0.0.0 dzen.ru/ads
 0.0.0.0 e.adnxs.com
 0.0.0.0 eclick.baidu.com
 0.0.0.0 edge.quantserve.com
@@ -497,6 +506,7 @@
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.spotify.com
+0.0.0.0 log.yandex.ru
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logger.line-apps.com
 0.0.0.0 logging.roku.com
@@ -517,6 +527,7 @@
 0.0.0.0 match.adsrvr.org
 0.0.0.0 match.sharethrough.com
 0.0.0.0 mathid.mathtag.com
+0.0.0.0 mc.yandex.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mdotm.com
 0.0.0.0 measurement.google.com
@@ -531,6 +542,7 @@
 0.0.0.0 metrics.inmobi.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 metrika.yandex.com
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 mgid.com
 0.0.0.0 mintegral.com
@@ -575,6 +587,7 @@
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partner.inmobi.com
 0.0.0.0 partner.taboola.com
+0.0.0.0 partner.yandex.ru
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 pass.tealiumiq.com
 0.0.0.0 pg.mintegral.com
@@ -598,6 +611,7 @@
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pixel.triplelift.com
 0.0.0.0 pixel.wp.com
+0.0.0.0 pixel.yandex.ru
 0.0.0.0 pixels.ad-sc.com
 0.0.0.0 popads.net
 0.0.0.0 popcash.net
@@ -629,6 +643,7 @@
 0.0.0.0 rtb.exoclick.com
 0.0.0.0 rtb.openx.net
 0.0.0.0 rtb.trafficjunky.com
+0.0.0.0 rtb.yandex.ru
 0.0.0.0 rubiconproject.com
 0.0.0.0 s.adcolony.com
 0.0.0.0 s.amazon-adsystem.com
@@ -685,12 +700,14 @@
 0.0.0.0 static.zergnet.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.wp.com
+0.0.0.0 stats.yandex.ru
 0.0.0.0 supersonic.com
 0.0.0.0 supersonicads.com
 0.0.0.0 support-metrics.apple.com
 0.0.0.0 surveys.hotjar.com
 0.0.0.0 sync-eu.rubiconproject.com
 0.0.0.0 sync.teads.tv
+0.0.0.0 sync.yandex.ru
 0.0.0.0 syndication-client.google.com
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.twitter.com
@@ -756,7 +773,30 @@
 0.0.0.0 www.statcounter.com
 0.0.0.0 www.zergnet.com
 0.0.0.0 x.bidswitch.net
+0.0.0.0 yandex-ads.com
+0.0.0.0 yandex-advertising.ru
+0.0.0.0 yandex-analytics.com
+0.0.0.0 yandex-analytics.ru
+0.0.0.0 yandex-bid.ru
+0.0.0.0 yandex-click.ru
+0.0.0.0 yandex-data.ru
+0.0.0.0 yandex-direct.ru
+0.0.0.0 yandex-dzen.ru
+0.0.0.0 yandex-metrics.ru
+0.0.0.0 yandex-metrika.com
+0.0.0.0 yandex-network.ru
+0.0.0.0 yandex-rtb.ru
+0.0.0.0 yandex-services.ru
+0.0.0.0 yandex-static.ru
+0.0.0.0 yandex-team.ru
+0.0.0.0 yandex-tech.ru
+0.0.0.0 yandex-tracker.ru
+0.0.0.0 yandex-view.ru
 0.0.0.0 yandex.ru/ads
+0.0.0.0 yandex.ru/set/ads
+0.0.0.0 yandex.ru/set/analytics
+0.0.0.0 yandex.ru/set/metrika
+0.0.0.0 yandexadexchange.net
 0.0.0.0 yieldmanager.com
 0.0.0.0 yumenetworks.com
 0.0.0.0 z.moatads.com
