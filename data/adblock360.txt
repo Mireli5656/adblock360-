@@ -1,0 +1,15 @@
+doubleclick.net
+googleadservices.com
+googlesyndication.com
+adservice.google.com
+analytics.google.com
+pixel.facebook.com
+connect.facebook.net
+ads.twitter.com
+telemetry.microsoft.com
+vortex.data.microsoft.com
+stats.g.doubleclick.net
+ads.linkedin.com
+taboola.com
+outbrain.com
+revcontent.com
