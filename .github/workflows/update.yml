@@ -20,10 +20,15 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build List
+      - name: Debug and Build
         run: |
+          echo "Faylın məzmunu:"
+          cat data/adblock360.txt
           mkdir -p lists
-          grep -v '^$' data/adblock360.txt | sort -u | sed 's/^/0.0.0.0 /' > lists/adblock360.hosts
+          # Bütün sətirləri oxu və başına 0.0.0.0 əlavə et
+          sed 's/^/0.0.0.0 /' data/adblock360.txt > lists/adblock360.hosts
+          echo "Yaradılan faylın məzmunu:"
+          cat lists/adblock360.hosts
 
       - name: Commit and Push
         run: |
