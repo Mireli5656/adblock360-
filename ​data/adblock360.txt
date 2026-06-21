@@ -22,4 +22,3 @@ ads.yahoo.com
 telemetry.microsoft.com
 vortex.data.microsoft.com
 stats.g.doubleclick.net
-ads.linkedin.com
