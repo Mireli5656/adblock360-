@@ -2,6 +2,8 @@
 0.0.0.0 a.adroll.com
 0.0.0.0 a.ads.roku.com
 0.0.0.0 a.applovin.com
+0.0.0.0 a.clickadu.com
+0.0.0.0 a.juicyads.com
 0.0.0.0 a.kiwi-live.com
 0.0.0.0 a.teads.tv
 0.0.0.0 a1.adform.net
@@ -16,7 +18,9 @@
 0.0.0.0 ad-emea.doubleclick.net
 0.0.0.0 ad-feedback.bing.com
 0.0.0.0 ad-g.doubleclick.net
+0.0.0.0 ad-network.net
 0.0.0.0 ad-plus.cn
+0.0.0.0 ad-pop.net
 0.0.0.0 ad-score.com
 0.0.0.0 ad-yandex.net
 0.0.0.0 ad.360yield.com
@@ -36,7 +40,9 @@
 0.0.0.0 ad.m6r.eu
 0.0.0.0 ad.mail.ru
 0.0.0.0 ad.mgid.com
+0.0.0.0 ad.pop-under.net
 0.0.0.0 ad.promonet.me
+0.0.0.0 ad.push-ads.net
 0.0.0.0 ad.revcontent.com
 0.0.0.0 ad.samsungadhub.com
 0.0.0.0 ad.sistrix.com
@@ -119,11 +125,13 @@
 0.0.0.0 ads.amazon.com
 0.0.0.0 ads.apple.com
 0.0.0.0 ads.applovin.com
+0.0.0.0 ads.bidvertiser.com
 0.0.0.0 ads.bing.com
 0.0.0.0 ads.bleacherreport.com
 0.0.0.0 ads.bovada.lv
 0.0.0.0 ads.cnn.com
 0.0.0.0 ads.espn.com
+0.0.0.0 ads.exoclick.com
 0.0.0.0 ads.forbes.com
 0.0.0.0 ads.google.ca
 0.0.0.0 ads.google.co.id
@@ -264,6 +272,7 @@
 0.0.0.0 ads.google.it
 0.0.0.0 ads.gumgum.com
 0.0.0.0 ads.hulu.com
+0.0.0.0 ads.juicyads.com
 0.0.0.0 ads.kargo.com
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.mopub.com
@@ -272,6 +281,7 @@
 0.0.0.0 ads.pointroll.com
 0.0.0.0 ads.propellerads.com
 0.0.0.0 ads.pubmatic.com
+0.0.0.0 ads.push-notification.net
 0.0.0.0 ads.reddit.com
 0.0.0.0 ads.roku.com
 0.0.0.0 ads.spotify.com
@@ -279,6 +289,7 @@
 0.0.0.0 ads.taboola.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 ads.tiktokv.com
+0.0.0.0 ads.top-ad-network.com
 0.0.0.0 ads.triplelift.com
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.unityads.unity3d.com
@@ -417,6 +428,7 @@
 0.0.0.0 api.heap.io
 0.0.0.0 api.inmobi.com
 0.0.0.0 api.intercom.io
+0.0.0.0 api.juicyads.com
 0.0.0.0 api.kargo.com
 0.0.0.0 api.keen.io
 0.0.0.0 api.launchdarkly.com
@@ -524,9 +536,11 @@
 0.0.0.0 cdn-adn.rayjump.com
 0.0.0.0 cdn-ads.vungle.com
 0.0.0.0 cdn-test.mouseflow.com
+0.0.0.0 cdn.adcash.com
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.braze.eu
+0.0.0.0 cdn.clickadu.com
 0.0.0.0 cdn.content-ad.net
 0.0.0.0 cdn.gumgum.com
 0.0.0.0 cdn.heapanalytics.com
@@ -537,9 +551,11 @@
 0.0.0.0 cdn.luckyorange.com
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.mouseflow.com
+0.0.0.0 cdn.propellerads.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.teads.tv
+0.0.0.0 cdn.top-ad-network.com
 0.0.0.0 cdn.triplelift.com
 0.0.0.0 cdn.yieldmo.com
 0.0.0.0 cdns.gigya.com
@@ -556,11 +572,14 @@
 0.0.0.0 claritybt.freshmarketer.com
 0.0.0.0 clck.yandex.net
 0.0.0.0 clck.yandex.ru
+0.0.0.0 click.admaven.com
 0.0.0.0 click.googleadservices.com
 0.0.0.0 click.googleanalytics.com
 0.0.0.0 click.oneplus.cn
+0.0.0.0 click.pop-ads.com
 0.0.0.0 clickadu.com
 0.0.0.0 clickagy.com
+0.0.0.0 clickmon.net
 0.0.0.0 clicktale.net
 0.0.0.0 clicky.com
 0.0.0.0 clicmanager.fr
@@ -575,6 +594,7 @@
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 control.kochava.com
+0.0.0.0 cpx24.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crazyegg.com
 0.0.0.0 creative.googleusercontent.com
@@ -600,6 +620,7 @@
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.pendo.io
+0.0.0.0 datify.net
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 delivery.adrevolver.com
 0.0.0.0 delivery.dsp.io
@@ -633,6 +654,7 @@
 0.0.0.0 ensighten.com
 0.0.0.0 ero-advertising.com
 0.0.0.0 eu1.clevertap-prod.com
+0.0.0.0 evadav.com
 0.0.0.0 events.adcolony.com
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.fivetran.com
@@ -730,6 +752,7 @@
 0.0.0.0 impr.nexage.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 imrworldwide.com
+0.0.0.0 in.adsterra.com
 0.0.0.0 in.appcenter.ms
 0.0.0.0 in.applovin.com
 0.0.0.0 infonline.de
@@ -793,6 +816,7 @@
 0.0.0.0 m.doubleclick.net
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mads.tiktok.com
+0.0.0.0 main.exoclick.com
 0.0.0.0 manager.smartlook.com
 0.0.0.0 marketing-platform.google.com
 0.0.0.0 match.adsrvr.org
@@ -824,6 +848,7 @@
 0.0.0.0 mixpanel.com
 0.0.0.0 moat.com
 0.0.0.0 moatads.com
+0.0.0.0 mobidea.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mon.byteoversea.com
@@ -901,7 +926,15 @@
 0.0.0.0 pixels.ad-sc.com
 0.0.0.0 player-metrics.unity3d.com
 0.0.0.0 plista.com
+0.0.0.0 plugrush.com
 0.0.0.0 pointroll.com
+0.0.0.0 pop-under.net
+0.0.0.0 pop.ad-network.net
+0.0.0.0 pop.evadav.com
+0.0.0.0 pop.pop-ads.com
+0.0.0.0 pop.pop-under.net
+0.0.0.0 pop.popads.net
+0.0.0.0 pop.popcash.net
 0.0.0.0 popads.net
 0.0.0.0 popcash.net
 0.0.0.0 popupdomination.com
@@ -914,6 +947,12 @@
 0.0.0.0 pubads.google.com
 0.0.0.0 publisher.google.com
 0.0.0.0 pubmatic.com
+0.0.0.0 push-ads.net
+0.0.0.0 push-notification.net
+0.0.0.0 push.admaven.com
+0.0.0.0 push.adsterra.com
+0.0.0.0 push.bidvertiser.com
+0.0.0.0 push.evadav.com
 0.0.0.0 px.moatads.com
 0.0.0.0 px.owneriq.net
 0.0.0.0 qualtrics.com
@@ -938,11 +977,14 @@
 0.0.0.0 rtb.applovin.com
 0.0.0.0 rtb.exoclick.com
 0.0.0.0 rtb.openx.net
+0.0.0.0 rtb.propellerads.com
 0.0.0.0 rtb.trafficjunky.com
 0.0.0.0 rtb.yandex.ru
 0.0.0.0 rubiconproject.com
 0.0.0.0 s.adcolony.com
+0.0.0.0 s.adsterra.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 s.clickadu.com
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s1.adform.net
 0.0.0.0 s7.addthis.com
@@ -1002,6 +1044,7 @@
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.criteo.net
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static.evadav.com
 0.0.0.0 static.kargo.com
 0.0.0.0 static.media.net
 0.0.0.0 static.shareasale.com
@@ -1016,6 +1059,7 @@
 0.0.0.0 support-metrics.apple.com
 0.0.0.0 surveys.hotjar.com
 0.0.0.0 sync-eu.rubiconproject.com
+0.0.0.0 sync.adcash.com
 0.0.0.0 sync.teads.tv
 0.0.0.0 sync.yandex.ru
 0.0.0.0 syndication-client.google.com
@@ -1024,6 +1068,7 @@
 0.0.0.0 taboola.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
+0.0.0.0 tags.exoclick.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tapad.com
 0.0.0.0 tapjoy.com
@@ -1040,6 +1085,7 @@
 0.0.0.0 thind-gke-usc.unity3d.com
 0.0.0.0 tidaltv.com
 0.0.0.0 tools.mouseflow.com
+0.0.0.0 top-ad-network.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 top.vk.com
 0.0.0.0 tpc.googlesyndication.com
