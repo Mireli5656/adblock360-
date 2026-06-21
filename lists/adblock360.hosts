@@ -11,6 +11,7 @@
 0.0.0.0 ad-apac.doubleclick.net
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 ad-feedback.bing.com
 0.0.0.0 ad-plus.cn
 0.0.0.0 ad-score.com
 0.0.0.0 ad-yandex.net
@@ -63,6 +64,7 @@
 0.0.0.0 adjug.com
 0.0.0.0 adklick.net
 0.0.0.0 adlink.net
+0.0.0.0 adlog.apple.com
 0.0.0.0 adlog.com
 0.0.0.0 adlux.com
 0.0.0.0 adm.hotjar.com
@@ -89,7 +91,9 @@
 0.0.0.0 ads.admarvel.com
 0.0.0.0 ads.adroll.com
 0.0.0.0 ads.aerserv.com
+0.0.0.0 ads.apple.com
 0.0.0.0 ads.applovin.com
+0.0.0.0 ads.bing.com
 0.0.0.0 ads.bleacherreport.com
 0.0.0.0 ads.bovada.lv
 0.0.0.0 ads.cnn.com
@@ -111,6 +115,7 @@
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.taboola.com
 0.0.0.0 ads.tiktok.com
+0.0.0.0 ads.tiktokv.com
 0.0.0.0 ads.triplelift.com
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.unityads.unity3d.com
@@ -128,6 +133,7 @@
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads2.msn.com
 0.0.0.0 ads30.adcolony.com
+0.0.0.0 adsapi.bing.com
 0.0.0.0 adscript.com
 0.0.0.0 adsense-enabled.google.com
 0.0.0.0 adsense.google.com
@@ -185,6 +191,7 @@
 0.0.0.0 analytics-settings.google.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics-tracking.google.com
+0.0.0.0 analytics.amplitude.com
 0.0.0.0 analytics.applovin.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.kargo.com
@@ -198,6 +205,7 @@
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 ap.lijit.com
 0.0.0.0 apads.mopub.com
+0.0.0.0 api-ad.tiktokv.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.adcolony.com
@@ -205,19 +213,29 @@
 0.0.0.0 api.airbrake.io
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.bazaarvoice.com
+0.0.0.0 api.branch.io
+0.0.0.0 api.braze.com
 0.0.0.0 api.bugsnag.com
 0.0.0.0 api.clicktale.com
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.exoclick.com
+0.0.0.0 api.fullstory.com
+0.0.0.0 api.heap.io
 0.0.0.0 api.inmobi.com
+0.0.0.0 api.intercom.io
 0.0.0.0 api.kargo.com
+0.0.0.0 api.keen.io
+0.0.0.0 api.launchdarkly.com
 0.0.0.0 api.leanplum.com
+0.0.0.0 api.logrocket.com
 0.0.0.0 api.luckyorange.com
 0.0.0.0 api.mgid.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.moengage.com
 0.0.0.0 api.mouseflow.com
 0.0.0.0 api.onesignal.com
+0.0.0.0 api.optimizely.com
+0.0.0.0 api.pendo.io
 0.0.0.0 api.permutive.com
 0.0.0.0 api.phunware.com
 0.0.0.0 api.raygun.io
@@ -239,6 +257,7 @@
 0.0.0.0 app.braze.com
 0.0.0.0 app.bugsnag.com
 0.0.0.0 app.getsentry.com
+0.0.0.0 app.link
 0.0.0.0 app.sentry.io
 0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 apps.admob.com
@@ -305,12 +324,15 @@
 0.0.0.0 cdn.braze.eu
 0.0.0.0 cdn.content-ad.net
 0.0.0.0 cdn.gumgum.com
+0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.inspectlet.com
 0.0.0.0 cdn.kochava.com
 0.0.0.0 cdn.krxd.net
+0.0.0.0 cdn.logrocket.io
 0.0.0.0 cdn.luckyorange.com
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.mouseflow.com
+0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.triplelift.com
@@ -361,6 +383,8 @@
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.pendo.io
+0.0.0.0 decide.mixpanel.com
 0.0.0.0 delivery.adrevolver.com
 0.0.0.0 delivery.dsp.io
 0.0.0.0 delivery.openx.net
@@ -370,6 +394,7 @@
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 devsite.247realmedia.com
+0.0.0.0 diag.microsoft.com
 0.0.0.0 diagnostics.office.com
 0.0.0.0 dis.criteo.com
 0.0.0.0 displayads.google.com
@@ -486,6 +511,7 @@
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.adroll.com
 0.0.0.0 js.gumgum.com
+0.0.0.0 js.intercomcdn.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 jsecoin.com
 0.0.0.0 juicyads.com
@@ -506,6 +532,7 @@
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.spotify.com
+0.0.0.0 log.tiktokv.com
 0.0.0.0 log.yandex.ru
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logger.line-apps.com
@@ -550,6 +577,7 @@
 0.0.0.0 moat.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile.events.data.microsoft.com
+0.0.0.0 mon.byteoversea.com
 0.0.0.0 mookie1.com
 0.0.0.0 mouseflow.com
 0.0.0.0 myads.google.com
@@ -632,6 +660,7 @@
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 realtime.luckyorange.com
 0.0.0.0 referrer.disqus.com
+0.0.0.0 reports.wes.microsoft.com
 0.0.0.0 req.startappservice.com
 0.0.0.0 revcontent.com
 0.0.0.0 revenuehits.com
@@ -662,6 +691,7 @@
 0.0.0.0 sdk.appboy.com
 0.0.0.0 sdk.applovin.com
 0.0.0.0 sdk.iad-01.braze.com
+0.0.0.0 sdk.split.io
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdks.inner-active.mobi
@@ -680,10 +710,13 @@
 0.0.0.0 showads.pubmatic.com
 0.0.0.0 sic.33across.com
 0.0.0.0 smartadserver.com
+0.0.0.0 smetrics.apple.com
 0.0.0.0 smetrics.samsung.com
 0.0.0.0 soma.smaato.net
 0.0.0.0 spade.twitch.tv
 0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 sqm.df.microsoft.com
+0.0.0.0 sqm.microsoft.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 st.mycdn.me
@@ -741,6 +774,7 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 trends.revcontent.com
 0.0.0.0 trk.pinterest.com
+0.0.0.0 u.bing.com
 0.0.0.0 udc.yahoo.com
 0.0.0.0 udcm.yahoo.com
 0.0.0.0 udm.scorecardresearch.com
@@ -751,6 +785,7 @@
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 video-ads.google.com
 0.0.0.0 video.unrulyhq.com
+0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vungle.com
 0.0.0.0 w.sharethis.com
