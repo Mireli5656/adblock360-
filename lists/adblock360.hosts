@@ -1,5 +1,6 @@
 0.0.0.0 a.adnxs.com
 0.0.0.0 a.adroll.com
+0.0.0.0 a.ads.roku.com
 0.0.0.0 a.applovin.com
 0.0.0.0 a.kiwi-live.com
 0.0.0.0 a.teads.tv
@@ -91,6 +92,7 @@
 0.0.0.0 ads.admarvel.com
 0.0.0.0 ads.adroll.com
 0.0.0.0 ads.aerserv.com
+0.0.0.0 ads.amazon.com
 0.0.0.0 ads.apple.com
 0.0.0.0 ads.applovin.com
 0.0.0.0 ads.bing.com
@@ -240,6 +242,7 @@
 0.0.0.0 api.phunware.com
 0.0.0.0 api.raygun.io
 0.0.0.0 api.revcontent.com
+0.0.0.0 api.roku.com
 0.0.0.0 api.rollbar.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.swrve.com
@@ -358,6 +361,7 @@
 0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
 0.0.0.0 config.inmobi.com
+0.0.0.0 config.roku.com
 0.0.0.0 config.samsungads.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 connect.facebook.net
@@ -452,6 +456,7 @@
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 geo.yahoo.com
 0.0.0.0 gfe.nvidia.com
+0.0.0.0 gfs.roku.com
 0.0.0.0 gmanage.google.com
 0.0.0.0 gmanager.google.com
 0.0.0.0 gnetwork.google.com
@@ -541,6 +546,7 @@
 0.0.0.0 logs.browserstack.com
 0.0.0.0 logs.ironsrc.com
 0.0.0.0 logs.papertrailapp.com
+0.0.0.0 logs.roku.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logx.optimizely.com
@@ -753,6 +759,7 @@
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.nvidia.com
 0.0.0.0 telemetry.pcloud.com
+0.0.0.0 telemetry.roku.com
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 telemetry.vizio.com
 0.0.0.0 tidaltv.com
