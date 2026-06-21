@@ -15,3 +15,11 @@ scam-network.net
 phishing-site.net
 malware-domain-list.com
 malicious-ads.com
+taboola.com
+outbrain.com
+revcontent.com
+ads.yahoo.com
+telemetry.microsoft.com
+vortex.data.microsoft.com
+stats.g.doubleclick.net
+ads.linkedin.com
