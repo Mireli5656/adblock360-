@@ -1,0 +1,30 @@
+name: Build Adblock360
+
+on:
+  push:
+    paths:
+      - 'data/*.txt'
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Build Adblock360 List
+        run: |
+          mkdir -p lists
+          # Merge all files from data/, remove comments (!), sort, and ensure 0.0.0.0 prefix
+          cat data/*.txt | grep -v '^!' | grep -v '^$' | sort -u | sed 's/^/0.0.0.0 /' > lists/adblock360.hosts
+          
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add lists/adblock360.hosts
+          git commit -m "Auto-update Adblock360 list" || exit 0
+          git push
