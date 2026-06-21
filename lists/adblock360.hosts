@@ -1,3 +1,21 @@
+0.0.0.0 1w-analytics.com
+0.0.0.0 1w-tracker.com
+0.0.0.0 1w.bet
+0.0.0.0 1win-ads.com
+0.0.0.0 1win-affiliate.com
+0.0.0.0 1win-games.com
+0.0.0.0 1win-info.com
+0.0.0.0 1win-partners.com
+0.0.0.0 1win-redirect.com
+0.0.0.0 1win-tracking.com
+0.0.0.0 1win.bet
+0.0.0.0 1win.com
+0.0.0.0 1win.digital
+0.0.0.0 1win.ink
+0.0.0.0 1win.link
+0.0.0.0 1win.pro
+0.0.0.0 1win.site
+0.0.0.0 1win.top
 0.0.0.0 a.adnxs.com
 0.0.0.0 a.adroll.com
 0.0.0.0 a.ads.roku.com
@@ -23,6 +41,7 @@
 0.0.0.0 ad-pop.net
 0.0.0.0 ad-score.com
 0.0.0.0 ad-yandex.net
+0.0.0.0 ad.1win.com
 0.0.0.0 ad.360yield.com
 0.0.0.0 ad.adriver.ru
 0.0.0.0 ad.adsafeprotected.com
@@ -412,6 +431,7 @@
 0.0.0.0 apads.mopub.com
 0.0.0.0 api-ad.tiktokv.com
 0.0.0.0 api-adservices.apple.com
+0.0.0.0 api.1win.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.adcolony.com
 0.0.0.0 api.adparlor.com
@@ -536,6 +556,7 @@
 0.0.0.0 cdn-adn.rayjump.com
 0.0.0.0 cdn-ads.vungle.com
 0.0.0.0 cdn-test.mouseflow.com
+0.0.0.0 cdn.1win.com
 0.0.0.0 cdn.adcash.com
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 cdn.branch.io
@@ -572,6 +593,7 @@
 0.0.0.0 claritybt.freshmarketer.com
 0.0.0.0 clck.yandex.net
 0.0.0.0 clck.yandex.ru
+0.0.0.0 click.1win.bet
 0.0.0.0 click.admaven.com
 0.0.0.0 click.googleadservices.com
 0.0.0.0 click.googleanalytics.com
@@ -705,6 +727,7 @@
 0.0.0.0 gmanager.google.com
 0.0.0.0 gnetwork.google.com
 0.0.0.0 go-mpulse.net
+0.0.0.0 go.1win.pro
 0.0.0.0 go.affise.com
 0.0.0.0 go.chartboost.com
 0.0.0.0 go.monetizer.com
@@ -812,6 +835,7 @@
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 luckyorange.com
+0.0.0.0 m.1win.com
 0.0.0.0 m.addthis.com
 0.0.0.0 m.doubleclick.net
 0.0.0.0 mads.amazon-adsystem.com
@@ -904,6 +928,7 @@
 0.0.0.0 phgconsole.performancehorizon.com
 0.0.0.0 phn.net
 0.0.0.0 ping.chartbeat.net
+0.0.0.0 pixel.1win.com
 0.0.0.0 pixel.adgrx.com
 0.0.0.0 pixel.adroll.com
 0.0.0.0 pixel.adsafeprotected.com
@@ -1039,6 +1064,7 @@
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 st.mycdn.me
 0.0.0.0 statcounter.com
+0.0.0.0 static.1win.com
 0.0.0.0 static.adblade.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.chartbeat.com
