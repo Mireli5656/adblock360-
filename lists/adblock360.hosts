@@ -3054,6 +3054,7 @@
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 cdn.adtrace.org
 0.0.0.0 cdn.advancedmactools.com
+0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.braze.eu
 0.0.0.0 cdn.clickadu.com
@@ -3067,10 +3068,12 @@
 0.0.0.0 cdn.luckyorange.com
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.mouseflow.com
+0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn.ndparking.com
 0.0.0.0 cdn.opensubcontent.com
 0.0.0.0 cdn.propellerads.com
 0.0.0.0 cdn.segment.com
+0.0.0.0 cdn.segment.io
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.top-ad-network.com
@@ -3934,6 +3937,7 @@
 0.0.0.0 haso.pubmatic.com
 0.0.0.0 hatspotlight.asia
 0.0.0.0 havijrat.zapto.org
+0.0.0.0 heapanalytics.com
 0.0.0.0 heaptickets.com
 0.0.0.0 heartratepros.com
 0.0.0.0 hefigo.com
@@ -4055,6 +4059,7 @@
 0.0.0.0 in.adsterra.com
 0.0.0.0 in.appcenter.ms
 0.0.0.0 in.applovin.com
+0.0.0.0 in.hotjar.com
 0.0.0.0 in.joinourwebsite.com
 0.0.0.0 in.riskymail4free.com
 0.0.0.0 inciseclog.com
@@ -4066,6 +4071,7 @@
 0.0.0.0 influxdata.com
 0.0.0.0 infonline.de
 0.0.0.0 inforefiner.com
+0.0.0.0 informer.yandex.ru
 0.0.0.0 infospace.tk
 0.0.0.0 infox.sg
 0.0.0.0 infra.by
@@ -5119,6 +5125,7 @@
 0.0.0.0 regclean.software-phile.com
 0.0.0.0 regcure.software-phile.com
 0.0.0.0 regdefense.com
+0.0.0.0 region1.google-analytics.com
 0.0.0.0 registry-clean-up.net
 0.0.0.0 registry-cleaner.net
 0.0.0.0 registry-cleaners-compared.com
@@ -5522,6 +5529,7 @@
 0.0.0.0 static.criteo.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.evadav.com
+0.0.0.0 static.hotjar.com
 0.0.0.0 static.ifa.slutloadlive.com
 0.0.0.0 static.kargo.com
 0.0.0.0 static.media.net
@@ -5600,6 +5608,7 @@
 0.0.0.0 taffr.com
 0.0.0.0 taffykhirka.com
 0.0.0.0 tagalodrome.com
+0.0.0.0 tagmanager.google.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.exoclick.com
@@ -5943,6 +5952,7 @@
 0.0.0.0 valuehost.co.uk
 0.0.0.0 vanguardair.com
 0.0.0.0 vasanthkumar.com
+0.0.0.0 vc.hotjar.io
 0.0.0.0 vclicks.net
 0.0.0.0 vd.7vid.net
 0.0.0.0 vdhu.com
@@ -6049,6 +6059,7 @@
 0.0.0.0 websitehome.co.uk
 0.0.0.0 webstats.thesoul-publishing.com
 0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 webvisor.com
 0.0.0.0 wera.popunder.ru
 0.0.0.0 westerntaneyfire.com
 0.0.0.0 weverse.io
