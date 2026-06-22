@@ -2066,6 +2066,7 @@
 0.0.0.0 abc.go.com
 0.0.0.0 abcsinsights.com
 0.0.0.0 abp-filters-anti-cv
+0.0.0.0 abtest.alibaba.com
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 accidentadvicehelpline.co.uk
 0.0.0.0 accorusdawdler.com
@@ -2078,6 +2079,7 @@
 0.0.0.0 acs.56.com
 0.0.0.0 acs.agent.56.com
 0.0.0.0 acs.agent.v-56.com
+0.0.0.0 acs4baichuan.m.taobao.com
 0.0.0.0 actrck.com
 0.0.0.0 ad-apac.doubleclick.net
 0.0.0.0 ad-delivery.net
@@ -2135,11 +2137,17 @@
 0.0.0.0 ad4game.com
 0.0.0.0 adadapted.com
 0.0.0.0 adamsfilms.com
+0.0.0.0 adash.m.taobao.com
 0.0.0.0 adash.man.aliyuncs.com
+0.0.0.0 adashbc.m.taobao.com
+0.0.0.0 adashbc.ut.taobao.com
+0.0.0.0 adashx.m.taobao.com
 0.0.0.0 adashx.ut.alibaba.com
 0.0.0.0 adashx.ut.youku.com
 0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 adashx4id.ut.taobao.com
+0.0.0.0 adashx4yt.m.taobao.com
+0.0.0.0 adashxgc.ut.taobao.com
 0.0.0.0 adbc.io
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
@@ -2576,6 +2584,7 @@
 0.0.0.0 alb.reddit.com
 0.0.0.0 albiondrugs.com
 0.0.0.0 algediduala.com
+0.0.0.0 ali-ad.a.yximgs.com
 0.0.0.0 aliaspresumerudder.com
 0.0.0.0 alibaba.com
 0.0.0.0 alibabaslots.com
@@ -2593,6 +2602,8 @@
 0.0.0.0 amare.softwaregarden.com
 0.0.0.0 amazing-offers.co.il
 0.0.0.0 amazon-adsystem.com
+0.0.0.0 amdc.m.taobao.com
+0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 amemv.com
 0.0.0.0 american-prize-center.com
 0.0.0.0 amplitude.com
@@ -2815,6 +2826,7 @@
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 auctiondirectory.org
 0.0.0.0 audia6.com
+0.0.0.0 audid-api.taobao.com
 0.0.0.0 audience-science.com
 0.0.0.0 audiencescience.com
 0.0.0.0 audit.dmtracker.com
@@ -2857,6 +2869,7 @@
 0.0.0.0 bad-actor.net
 0.0.0.0 bad-files.net
 0.0.0.0 baeriapiacula.com
+0.0.0.0 baichuan-sdk.alicdn.com
 0.0.0.0 baidu.com
 0.0.0.0 baiducdncmn-gd.inter.iqiyi.com
 0.0.0.0 baiducdncmn.inter.iqiyi.com
@@ -3081,6 +3094,7 @@
 0.0.0.0 bytefrom2010.com
 0.0.0.0 bytegsdk.com
 0.0.0.0 byteoversea.com
+0.0.0.0 c-adash.m.taobao.com
 0.0.0.0 c.adclickthru.net
 0.0.0.0 c.adnxs.com
 0.0.0.0 c.agkn.com
@@ -3147,6 +3161,7 @@
 0.0.0.0 cctv.adsunion.com
 0.0.0.0 cdiabetes.com
 0.0.0.0 cdn-adn.rayjump.com
+0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0 cdn-ads.vungle.com
 0.0.0.0 cdn-test.mouseflow.com
 0.0.0.0 cdn.1win.com
@@ -3651,6 +3666,7 @@
 0.0.0.0 drokpasewer.com
 0.0.0.0 drrt.h18.ru
 0.0.0.0 drunkenstepfather.com
+0.0.0.0 dsp.simba.taobao.com
 0.0.0.0 dtscout.com
 0.0.0.0 dtto.com
 0.0.0.0 dualistesseda.com
@@ -3688,6 +3704,7 @@
 0.0.0.0 eclean.or.kr
 0.0.0.0 eclick.baidu.com
 0.0.0.0 eclkspsa.com
+0.0.0.0 eco.taobao.com
 0.0.0.0 ecolesmauve.com
 0.0.0.0 ecologystoter.com
 0.0.0.0 economist.com
@@ -4094,7 +4111,9 @@
 0.0.0.0 gxplugin.com
 0.0.0.0 gyrocarkluck.com
 0.0.0.0 h-adachi.org
+0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx.ut.youku.com
+0.0.0.0 h-adashx4yt.ut.taobao.com
 0.0.0.0 h.adform.net
 0.0.0.0 h.zeroredirect.com
 0.0.0.0 h0rnd0g.popunder.ru
@@ -4223,6 +4242,7 @@
 0.0.0.0 ih1.gamecopyworld.com
 0.0.0.0 ii.gdt.qq.com
 0.0.0.0 ikameglobal.com
+0.0.0.0 ilce.alicdn.com
 0.0.0.0 ilovecheating.com
 0.0.0.0 image.cecash.com
 0.0.0.0 image.gumgum.com
@@ -4599,6 +4619,7 @@
 0.0.0.0 lyrebirdstudio.net
 0.0.0.0 lzjl.com
 0.0.0.0 m-99.co.uk
+0.0.0.0 m-adash.m.taobao.com
 0.0.0.0 m-barati.de
 0.0.0.0 m.1win.com
 0.0.0.0 m.addthis.com
@@ -4915,6 +4936,7 @@
 0.0.0.0 nav.browser.miui.com
 0.0.0.0 naver.com
 0.0.0.0 nbrtrack.com
+0.0.0.0 nbsdk-baichuan.alicdn.com
 0.0.0.0 nc.gdt.qq.com
 0.0.0.0 ndrimmers.com
 0.0.0.0 nebulahoroscope.com
@@ -5038,6 +5060,7 @@
 0.0.0.0 opalmetely.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 opendownloadmanager.com
+0.0.0.0 openjmacs.m.taobao.com
 0.0.0.0 opensoftwareupdate.com
 0.0.0.0 opensoftwareupdater.com
 0.0.0.0 openstorage.ad.cmvideo.cn
@@ -5338,6 +5361,7 @@
 0.0.0.0 proubuntu.ru
 0.0.0.0 providepinprickkidnapping.com
 0.0.0.0 proxima.nie.easebar.com
+0.0.0.0 proxy-mob-cld.alicdn.com
 0.0.0.0 prriceline.com
 0.0.0.0 ps.eyeota.net
 0.0.0.0 ps.ns-cdn.com
@@ -5728,6 +5752,7 @@
 0.0.0.0 siteanalytics.compete.com
 0.0.0.0 sizmek.com
 0.0.0.0 sj88.com
+0.0.0.0 sjarvis.taobao.com
 0.0.0.0 skassets.com
 0.0.0.0 skewlycrepy.com
 0.0.0.0 skinnedjets.com
@@ -6276,6 +6301,7 @@
 0.0.0.0 tuckows.com
 0.0.0.0 tuffoonaskant.com
 0.0.0.0 tukejrh.angelfire.com
+0.0.0.0 tunion-api.m.taobao.com
 0.0.0.0 turbodeter.com
 0.0.0.0 turdgasm.com
 0.0.0.0 turkeyrank.com
@@ -6307,8 +6333,11 @@
 0.0.0.0 uk.mediaplayercodecpack.com
 0.0.0.0 ulivetv.net
 0.0.0.0 umami.priorato.org
+0.0.0.0 umdc.aliapp.org
+0.0.0.0 umengacs.m.taobao.com
 0.0.0.0 umengcloud.com
 0.0.0.0 umengcloud.net
+0.0.0.0 umengjmacs.m.taobao.com
 0.0.0.0 unblockfacebook.co.uk
 0.0.0.0 unblocksit.es
 0.0.0.0 uncodedsmoothy.com
@@ -6317,6 +6346,7 @@
 0.0.0.0 ungagedhulloo.com
 0.0.0.0 ungreeninwrit.com
 0.0.0.0 unhangignore.com
+0.0.0.0 unidesk.alicdn.com
 0.0.0.0 union.56.com
 0.0.0.0 union.6.cn
 0.0.0.0 unity3d.com
@@ -7272,6 +7302,7 @@
 0.0.0.0 www.updatesoftwaresend.com
 0.0.0.0 www.updo.nl
 0.0.0.0 www.uprour.com
+0.0.0.0 www.uyunad.com
 0.0.0.0 www.valuehost.co.uk
 0.0.0.0 www.vanguardair.com
 0.0.0.0 www.vasanthkumar.com
@@ -7504,6 +7535,7 @@
 0.0.0.0 ylgingq.angelcities.com
 0.0.0.0 ymxpb.com
 0.0.0.0 ynet.da.mgtv.com
+0.0.0.0 ynuf.aliapp.org
 0.0.0.0 yogisgeishas.com
 0.0.0.0 youku-acs.m.taobao.com
 0.0.0.0 youku-dtv.m.cn.miaozhen.com
