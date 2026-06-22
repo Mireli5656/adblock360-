@@ -264,6 +264,15 @@ ads.vk.com
 top-fwz1.mail.ru
 ad.mail.ru
 ads.reddit.com
+analytics.spotify.com
+crashdump.spotify.com
+desktop.spotify.com
+html5.api.spotify.com
+log.spotify.com
+logger.spotify.com
+market.spotify.com
+spclient.wg.spotify.com
+weblb-wg.spotify.com
 alb.reddit.com
 events.reddit.com
 ib.adnxs.com
