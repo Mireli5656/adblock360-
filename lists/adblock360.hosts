@@ -2846,6 +2846,7 @@
 0.0.0.0 bdsmtours.com
 0.0.0.0 bdv.sony.com
 0.0.0.0 be-funk.com
+0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beacon.krxd.net
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 beardsfeline.com
@@ -3185,6 +3186,7 @@
 0.0.0.0 clicky.com
 0.0.0.0 clicmanager.fr
 0.0.0.0 client.browseraccelerator.com
+0.0.0.0 clienttracing-pa.googleapis.com
 0.0.0.0 clik2008.popunder.ru
 0.0.0.0 clikz.mytvplayer.hop.clickbank.net
 0.0.0.0 cliop.com
@@ -3377,6 +3379,7 @@
 0.0.0.0 d.zeroredirect2.com
 0.0.0.0 d1.kuai8.com
 0.0.0.0 d1.openx.org
+0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d33f51dyacx7bd.cloudfront.net
 0.0.0.0 d5.openx.org
 0.0.0.0 dabblespaver.com
@@ -3526,6 +3529,7 @@
 0.0.0.0 duokanbox.com
 0.0.0.0 duplicatefilecleaner.com
 0.0.0.0 dutils.com
+0.0.0.0 dv9cjr-cdn-settings.appsflyersdk.com
 0.0.0.0 dvdmanager-203.sv2.biz
 0.0.0.0 dxsvr.com
 0.0.0.0 dzen.ru/ads
@@ -3555,6 +3559,7 @@
 0.0.0.0 ecologystoter.com
 0.0.0.0 economist.com
 0.0.0.0 ecos.e-mailcom.co.uk
+0.0.0.0 ecosia.telemetry.eyeo.com
 0.0.0.0 ecosystemeo.com
 0.0.0.0 ecpmrocks.com
 0.0.0.0 edadeal.android
@@ -3698,6 +3703,8 @@
 0.0.0.0 filtreyoking.com
 0.0.0.0 finders.hopto.org
 0.0.0.0 findit-quick.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firstconsumers.com
 0.0.0.0 fixcleaner.com
@@ -3830,6 +3837,7 @@
 0.0.0.0 gitalinnuance.com
 0.0.0.0 glamournakedemployee.com
 0.0.0.0 glazenrattoon.com
+0.0.0.0 gld.push.samsungosp.com
 0.0.0.0 globalcharge.com
 0.0.0.0 glority.com
 0.0.0.0 glucosesalique.com
@@ -3882,6 +3890,8 @@
 0.0.0.0 grabfile.co
 0.0.0.0 graduateamazingly.com
 0.0.0.0 grammarly.io
+0.0.0.0 graph-fallback.facebook.com
+0.0.0.0 graph-fallback.instagram.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 graphics.streamray.com
@@ -4185,6 +4195,7 @@
 0.0.0.0 js.coinisrsdelivery.com
 0.0.0.0 js.gumgum.com
 0.0.0.0 js.intercomcdn.com
+0.0.0.0 js.sentry-cdn.com
 0.0.0.0 js.smartredirect.de
 0.0.0.0 js11.clickzzs.nl
 0.0.0.0 js7.clickzzs.nl
@@ -4273,6 +4284,7 @@
 0.0.0.0 lawscrax.com
 0.0.0.0 lbesecapi.com
 0.0.0.0 lcbcad.co.uk
+0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 leadingedgecash.com
 0.0.0.0 leave.exacttarget.com
 0.0.0.0 lefos.net
@@ -4341,6 +4353,7 @@
 0.0.0.0 log.spotify.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log.yandex.ru
+0.0.0.0 log16-normal-alisg.tiktokv.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logger.line-apps.com
 0.0.0.0 logging.roku.com
@@ -4578,6 +4591,7 @@
 0.0.0.0 modern-oven.com
 0.0.0.0 modules.wcax.com
 0.0.0.0 moengage.com
+0.0.0.0 mon-boot.tiktokv.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 monarchslo.com
 0.0.0.0 monero-miner.com
@@ -4605,6 +4619,7 @@
 0.0.0.0 mrace.hopto.org
 0.0.0.0 ms-mvp.org
 0.0.0.0 msnsports.com
+0.0.0.0 mssdk16-normal-alisg.tiktokv.com
 0.0.0.0 msxml.info.com
 0.0.0.0 msxml.us.info.com
 0.0.0.0 mudejartitoism.com
@@ -4689,6 +4704,7 @@
 0.0.0.0 norton.com
 0.0.0.0 nosydorymen.com
 0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 noticecdn.samsungcloudsolution.com
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 notrecommended.co.uk
 0.0.0.0 nourteenthp.angelcities.com
@@ -4716,6 +4732,7 @@
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 ocean.xyz
 0.0.0.0 ocpersian.com
+0.0.0.0 oempprd.samsungcloudsolution.com
 0.0.0.0 ofcgcdcvk.com
 0.0.0.0 offerwall.yandex.net
 0.0.0.0 officialplenty.com
@@ -5164,6 +5181,7 @@
 0.0.0.0 retinaspealer.com
 0.0.0.0 revcontent.com
 0.0.0.0 revenuehits.com
+0.0.0.0 reverselookup.quicksetcloud.com
 0.0.0.0 reviews.domainplayersclub.com
 0.0.0.0 revisemsra.com
 0.0.0.0 revsci.net
@@ -5196,6 +5214,7 @@
 0.0.0.0 rs.mail.ru
 0.0.0.0 rsc.scmspain.com
 0.0.0.0 rstopup.com
+0.0.0.0 rtb-config.samsungads.com
 0.0.0.0 rtb.applovin.com
 0.0.0.0 rtb.exoclick.com
 0.0.0.0 rtb.openx.net
@@ -5271,6 +5290,7 @@
 0.0.0.0 sdk.appboy.com
 0.0.0.0 sdk.applovin.com
 0.0.0.0 sdk.iad-01.braze.com
+0.0.0.0 sdk.pushmessage.samsung.com
 0.0.0.0 sdk.split.io
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
@@ -5464,6 +5484,7 @@
 0.0.0.0 soski.popunder.ru
 0.0.0.0 soundcloud.com
 0.0.0.0 sozdizimi.com
+0.0.0.0 sp.ecosia.org
 0.0.0.0 spade.twitch.tv
 0.0.0.0 spamnuker.com
 0.0.0.0 spbtv.com
@@ -5530,6 +5551,7 @@
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.awempire.com
 0.0.0.0 static.chartbeat.com
+0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.contentabc.com
 0.0.0.0 static.criteo.net
 0.0.0.0 static.doubleclick.net
@@ -5712,6 +5734,8 @@
 0.0.0.0 tmgr.ccmbg.com
 0.0.0.0 tmobile.com
 0.0.0.0 tmocce.com
+0.0.0.0 tnc-boot.tiktokv.com
+0.0.0.0 tnc0-normal-alisg.tiktokv.com
 0.0.0.0 tnctrx.com
 0.0.0.0 tobapplog.tobsnssdk.com
 0.0.0.0 tobsnssdk.com
@@ -5894,6 +5918,7 @@
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 uk.mediaplayercodecpack.com
 0.0.0.0 ulivetv.net
+0.0.0.0 umami.priorato.org
 0.0.0.0 umengcloud.com
 0.0.0.0 umengcloud.net
 0.0.0.0 unblockfacebook.co.uk
@@ -5934,6 +5959,7 @@
 0.0.0.0 ureca-lab.com
 0.0.0.0 urgingslaurae.com
 0.0.0.0 us-ads.openx.net
+0.0.0.0 us-c.viayoo.com
 0.0.0.0 us-u.openx.net
 0.0.0.0 us.ad.lgsmartad.com
 0.0.0.0 usersuper.ru
