@@ -2206,6 +2206,7 @@
 0.0.0.0 ads.bovada.lv
 0.0.0.0 ads.clicksor.cn
 0.0.0.0 ads.cnn.com
+0.0.0.0 ads.deezer.com
 0.0.0.0 ads.espn.com
 0.0.0.0 ads.exoclick.com
 0.0.0.0 ads.forbes.com
@@ -2348,6 +2349,7 @@
 0.0.0.0 ads.google.it
 0.0.0.0 ads.gumgum.com
 0.0.0.0 ads.hulu.com
+0.0.0.0 ads.iheart.com
 0.0.0.0 ads.js
 0.0.0.0 ads.juicyads.com
 0.0.0.0 ads.kargo.com
@@ -2362,6 +2364,7 @@
 0.0.0.0 ads.push-notification.net
 0.0.0.0 ads.reddit.com
 0.0.0.0 ads.roku.com
+0.0.0.0 ads.soundcloud.com
 0.0.0.0 ads.spotify.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.taboola.com
@@ -2444,6 +2447,7 @@
 0.0.0.0 adson.awempire.com
 0.0.0.0 adsrv.e-planning.net
 0.0.0.0 adsrv.iol.co.za
+0.0.0.0 adsserver.megaphone.fm
 0.0.0.0 adst.spotify.com
 0.0.0.0 adstats.com
 0.0.0.0 adsterra.com
@@ -2557,6 +2561,7 @@
 0.0.0.0 analytics.applovin.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.kargo.com
+0.0.0.0 analytics.oneplus.cn
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.query.yahoo.com
