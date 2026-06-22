@@ -2890,6 +2890,7 @@
 0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 analytics.safelinking.net
 0.0.0.0 analytics.snapchat.com
+0.0.0.0 analytics.spotify.com
 0.0.0.0 analytics.supplyframe.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.unity3d.com
@@ -4501,6 +4502,7 @@
 0.0.0.0 craftjs.com
 0.0.0.0 cranchdotal.com
 0.0.0.0 cranialhubbed.com
+0.0.0.0 crashdump.spotify.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crazyegg.com
 0.0.0.0 crazyprotocol.com
@@ -4626,6 +4628,7 @@
 0.0.0.0 depurgeholour.com
 0.0.0.0 dernergazeful.com
 0.0.0.0 desifever.com
+0.0.0.0 desktop.spotify.com
 0.0.0.0 deteql.net
 0.0.0.0 detinetcallant.com
 0.0.0.0 detroithardcore.com
@@ -5265,6 +5268,7 @@
 0.0.0.0 howtotroll.org
 0.0.0.0 hoyoverse.com
 0.0.0.0 hscollectedforms.net
+0.0.0.0 html5.api.spotify.com
 0.0.0.0 huami.com
 0.0.0.0 hub.com
 0.0.0.0 huichuan.sm.cn
@@ -5655,6 +5659,7 @@
 0.0.0.0 log16-normal-alisg.tiktokv.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logger.line-apps.com
+0.0.0.0 logger.spotify.com
 0.0.0.0 logging.roku.com
 0.0.0.0 logos.x-traceur.com
 0.0.0.0 logs-01.loggly.com
@@ -5776,6 +5781,7 @@
 0.0.0.0 maraywreath.com
 0.0.0.0 marcopolo.uk.net
 0.0.0.0 markbruinink.nl
+0.0.0.0 market.spotify.com
 0.0.0.0 marketing-internet-solution.naix.pureleads.sendori.com
 0.0.0.0 marketing-platform.google.com
 0.0.0.0 marketingenhanced.com
@@ -7601,6 +7607,7 @@
 0.0.0.0 web.data.pplive.com
 0.0.0.0 web.info.com
 0.0.0.0 webgems.popunder.ru
+0.0.0.0 weblb-wg.spotify.com
 0.0.0.0 webminepool.com
 0.0.0.0 webminer.pro
 0.0.0.0 webmining.site
