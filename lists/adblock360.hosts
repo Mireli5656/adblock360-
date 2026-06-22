@@ -1,1 +1,15 @@
-0.0.0.0 www.googleadservices.com www.google-analytics.com www.googletagmanager.com www.googletagservices.com ad.doubleclick.net ade.googlesyndication.com adservice.google.com googleads.g.doubleclick.net pagead2.googlesyndication.com googleads.g.doubleclick.net ade.googlesyndication.com 4735610.fls.doubleclick.net 8114842.fls.doubleclick.net securepubads.g.doubleclick.net pubads.g.doubleclick.net cm.g.doubleclick.net bid.g.doubleclick.net
+0.0.0.0 4735610.fls.doubleclick.net
+0.0.0.0 8114842.fls.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.googletagservices.com
