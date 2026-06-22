@@ -11,6 +11,12 @@ static.doubleclick.net
 m.doubleclick.net
 securepubads.g.doubleclick.net
 aax.amazon-adsystem.com
+ads.deezer.com
+adsserver.megaphone.fm
+ads.iheart.com
+ads.soundcloud.com
+analytics.oneplus.cn
+ads.linkedin.com
 fls-na.amazon-adsystem.com
 z-na.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
