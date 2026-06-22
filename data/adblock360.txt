@@ -64,6 +64,7 @@ metrics.icloud.com
 samsung-com.112.2o7.net
 analytics-api.samsunghealthcn.com
 metrics.data.hicloud.com
+advertisement.js
 metrics2.data.hicloud.com
 logbak.hicloud.com
 data.ads.oppomobile.com
@@ -216,6 +217,9 @@ cdn.heapanalytics.com
 cdn.amplitude.com
 heapanalytics.com
 api.segment.io
+gum.criteo.com
+bidder.criteo.com
+images.taboola.com
 w1.luckyorange.com
 cdn.segment.io
 www.google-analytics.com
