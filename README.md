@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/Mireli5656/adblock360-/main/lists/adblock360.h
 https://raw.githubusercontent.com/Mireli5656/adblock360-/main/lists/adblock360.hosts
 5. Click Apply Changes or Update.
 
-### 2. NextDNS / AdGuard Home / Pi-hole (DNS Level)
+### 2.AdGuard Home / Pi-hole (DNS Level)
 1. Go to your DNS provider's dashboard.
 2. Navigate to Privacy -> Blocklists (or Blacklist settings).
 3. Add a custom blocklist and paste the raw link:
