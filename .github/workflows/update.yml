@@ -1,9 +1,9 @@
-name: Build Adblock360
+name: Build All Adblock Lists
 
 on:
   push:
     paths:
-      - 'data/adblock360.txt'
+      - 'data/**' # data qovluğunda istənilən fayl dəyişəndə işə düşür
     branches:
       - main
   workflow_dispatch:
@@ -20,15 +20,31 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build List
+      - name: Build Lists Dinamicly
         run: |
           mkdir -p lists
-          grep -v '^$' data/adblock360.txt | sort -u | sed 's/^/0.0.0.0 /' > lists/adblock360.hosts
+          
+          # data/ qovluğundakı bütün .txt fayllarını dövrə salırıq
+          for file in data/*.txt; do
+            # Əgər qovluq boşdursa və ya .txt faylı yoxdursa dövrü dayandırır
+            [ -e "$file" ] || continue
+            
+            # Faylın adını götürürük (məsələn: data/adblock360.txt -> adblock360)
+            filename=$(basename "$file" .txt)
+            
+            echo "Processing $filename..."
+            
+            # Boş sətirləri silir, unikal edir, önünə 0.0.0.0 əlavə edir və lists/ qovluğuna yazır
+            grep -v '^$' "$file" | sort -u | sed 's/^/0.0.0.0 /' > "lists/${filename}.hosts"
+          done
 
       - name: Commit and Push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add lists/adblock360.hosts
-          git commit -m "Auto-update Adblock360 list" || echo "No changes to commit"
+          
+          # lists/ qovluğunda yaranan bütün yeni .hosts fayllarını əlavə edir
+          git add lists/*.hosts
+          
+          git commit -m "Auto-update all adblock hosts lists" || echo "No changes to commit"
           git push
