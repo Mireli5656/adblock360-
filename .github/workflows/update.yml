@@ -3,7 +3,7 @@ name: Build Adblock360
 on:
   push:
     paths:
-      - 'data/adblock360.txt'
+      - 'data/spotifyadlist.txt'
     branches:
       - main
   workflow_dispatch:
