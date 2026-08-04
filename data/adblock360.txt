@@ -1,3 +1,9 @@
+tracking.youtube.com
+track.youtube.com
+adservice.youtube.com
+adserver.youtube.com
+ad.youtube.com
+ads.youtube.com
 2mdn.net
 33across.com
 360yield.com
