@@ -6790,6 +6790,7 @@
 0.0.0.0 ad.yna.co.kr
 0.0.0.0 ad.yonhapnews.co.kr
 0.0.0.0 ad.youku.com
+0.0.0.0 ad.youtube.com
 0.0.0.0 ad.zankhana.ltd
 0.0.0.0 ad.zetacx.net
 0.0.0.0 ad.zijieapi.com
@@ -8499,6 +8500,7 @@
 0.0.0.0 adserver.so-rummet.se
 0.0.0.0 adserver.sonicplug.com
 0.0.0.0 adserver.yahoo.com
+0.0.0.0 adserver.youtube.com
 0.0.0.0 adserverplus.com
 0.0.0.0 adserverpub.com
 0.0.0.0 adservice.google.com
@@ -8506,6 +8508,7 @@
 0.0.0.0 adservice.hani.co.kr
 0.0.0.0 adservice.sbs.co.kr
 0.0.0.0 adservice.tohsoft.com
+0.0.0.0 adservice.youtube.com
 0.0.0.0 adservicemedia.dk
 0.0.0.0 adservices.brandcdn.com
 0.0.0.0 adserving.com
@@ -16379,6 +16382,8 @@
 0.0.0.0 teads.io
 0.0.0.0 teads.tv
 0.0.0.0 telaria.com
+0.0.0.0 track.youtube.com
+0.0.0.0 tracking.youtube.com
 0.0.0.0 tradedoubler.com
 0.0.0.0 tradedoubler.net
 0.0.0.0 tradedoubler.org
